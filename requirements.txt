@@ -1,0 +1,10 @@
+transformers
+torch
+pdfplumber
+scikit-learn
+nltk
+spacy
+pandas
+matplotlib
+numpy
+huggingface_hub
